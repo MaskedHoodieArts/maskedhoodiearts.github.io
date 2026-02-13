@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "lastUpdated": "2026-02-09",
+    "source": "Agencia Creativa Digital"
+  },
+  "items": [
+    {
+      "id": 1,
+      "categoria": "Transporte",
+      "nombre": "¿Cómo te movilizas usualmente?",
+      "descripcion": "El transporte representa una gran parte de la huella de carbono.",
+      "opciones": [
+        {"texto": "Coche (Gasolina)", "puntos": 0},
+        {"texto": "Híbrido/Eléctrico", "puntos": 10},
+        {"texto": "Bici o Caminar", "puntos": 20}
+      ]
+    },
+    {
+      "id": 2,
+      "categoria": "Consumo",
+      "nombre": "¿Qué tipo de bolsas usas en el súper?",
+      "descripcion": "El plástico tarda siglos en degradarse.",
+      "opciones": [
+        {"texto": "Plástico desechable", "puntos": 0},
+        {"texto": "Biodegradables", "puntos": 10},
+        {"texto": "Bolsa de tela propia", "puntos": 20}
+      ]
+    },
+    {
+      "id": 3,
+      "categoria": "Alimentación",
+      "nombre": "¿Cuál es tu hábito de consumo de carne?",
+      "descripcion": "La producción ganadera intensiva consume miles de litros de agua.",
+      "opciones": [
+        {"texto": "Diario", "puntos": 0},
+        {"texto": "3 veces por semana", "puntos": 10},
+        {"texto": "Vegetariano/Vegano", "puntos": 20}
+      ]
+    },
+    {
+      "id": 4,
+      "categoria": "Energía",
+      "nombre": "¿Apagas los aparatos que no usas?",
+      "descripcion": "El 'consumo vampiro' puede representar el 10% de tu factura.",
+      "opciones": [
+        {"texto": "Nunca", "puntos": 0},
+        {"texto": "A veces", "puntos": 10},
+        {"texto": "Siempre (desconecto todo)", "puntos": 20}
+      ]
+    },
+    {
+      "id": 5,
+      "categoria": "Residuos",
+      "nombre": "¿Haces composta con tus desechos orgánicos?",
+      "descripcion": "Los restos de comida generan metano en los vertederos.",
+      "opciones": [
+        {"texto": "No, todo a la basura", "puntos": 0},
+        {"texto": "Lo he intentado", "puntos": 10},
+        {"texto": "Sí, tengo mi compostera", "puntos": 20}
+      ]
+    }
+  ]
+}
